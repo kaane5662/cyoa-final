@@ -2,8 +2,8 @@
 
 ## _Assault_
 
-### [Kill Body Guard]()
+### [Kill Body Guard](alarm.md)
 
 ## _Stealth_
 
-### [Sneak in from Roof]()
+### [Sneak in from Roof](choose-path.md)
