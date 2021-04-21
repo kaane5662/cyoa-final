@@ -2,8 +2,8 @@
 
 ## _Impaitent_
 
-### [Rush In]()
+### [Rush In](../quest-failed/failed.md)
 
 ## _Paitent_
 
-### [Wait for Guards to Exit Club]()
+### [Wait for Guards to Exit Club](../quest-complete/complete.md)

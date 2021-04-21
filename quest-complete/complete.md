@@ -2,5 +2,5 @@
 
 ## _You have succesfully executed the queen and have inherited all her riches!_
 
-### [Start Over]()
+### [Start Over](../tavernquests.md)
 
