@@ -5,4 +5,4 @@
 ### Trying this many times caused the shelf to fall down as a hole can be seen behind it
 ### Hearing the footsteps behind you, the queen rushes into the hidden room with you to hide in until the watchers give up
 ## You have completed the quest
-## Go and try a different path in a [quest](../../../tavernquests.md)
+# Go and try a different path in a [quest](../../../tavernquests.md)
