@@ -6,6 +6,6 @@
 ### A scout comes up tired as all could be
 ### "Spotted troops coming to storm the mansion"
 ### It seems as though the watchers found out where the queen is 
-## Look at blueprints to see if there is a [Hidden Room](../hidden-room.md)?
+## Look at blueprints to see if there is a [Hidden Room](hidden-room.md)?
 # Or
 ## Set up an [Ambush](../ambush.md)?
