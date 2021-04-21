@@ -9,4 +9,4 @@
 
 ## _Stealth_
 
-### [Sneak in from Roof](../choose-path/decision)
+### [Sneak in from Roof](choose-path/decision)
