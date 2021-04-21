@@ -1,4 +1,4 @@
-# "So you accepted a quest to protect our Queen?"
+## "So you accepted a quest to protect our Queen?"
 ### Although they seem shady you follow them to an old mansion.
 ### It seems as though the woods are very dense with trees as tall as the mansion itself.
 ### You meet the queen in the living quarters, tense about the situation of people trying to kill someone.
