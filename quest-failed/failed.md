@@ -1,5 +1,5 @@
 # **Quest Failed**
 
-## _You have failed at executing the queen and are now guilty of 25 years to life!_
+## _You either got caught by guards or executed to death. Anyways you have failed at executing the queen!_
 
 ### [Start Over](../tavernquests.md)
