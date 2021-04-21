@@ -7,6 +7,6 @@
 ### The other is a killing quest, trying to kill a queen in the darkness of night at the club
 
 ## Which shall you choose?
-## [Assassin quest](assassin-quest/assasin.md)
+## [Assassin quest](assassin-quest/assassin.md)
 # Or
 ## [Bodyguard quest](bodyguard/mansion.md)
